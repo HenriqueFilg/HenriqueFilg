@@ -9,6 +9,7 @@
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561999882089&text=)
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueFilg&show_icons=true&theme=merko) 
+
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueFilg&repo=HenriqueFilg&theme=merko)](https://github.com/HenriqueFilg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
