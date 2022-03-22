@@ -11,6 +11,7 @@
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueFilg&show_icons=true&theme=merko) 
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueFilg&repo=HenriqueFilg&theme=merko)](https://github.com/HenriqueFilg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align=center alt="Memoji" height=130 width=140 src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ2eOtgyzUJwcu-T8tAkOk-Pp39iGlbANF_ATFGoDOZqf4DcqANkAVo2W1ii7iXsNyMP52wV7BT8GKghM2Yrpuv0_5NFke2KmdiDNXPH-tD1spF21oUENTIMMjbUjjT2ELiu2EtAuWSyVpOtHSHEfPGGBVpq8srJf7_iPGq66aHuPOYec-HByruL6nCQ/s320/MemojiApple.PNG>
