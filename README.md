@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Henrique Filgueira 🖖
 
-- 👨🏽‍💻 Full stack
+- 👨🏽‍💻 Science Computer and Full stack student
 - 📚 Estudando: Python
 
 
