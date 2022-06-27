@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Henrique Filgueira 🖖
 
-- 👨🏽‍💻 Front-end
+- 👨🏽‍💻 Full stack
 - 📚 Estudando: Python
 
 
