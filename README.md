@@ -1,12 +1,14 @@
 ### Olá! Eu sou o Henrique Filgueira 🖖
 
-- 👨🏽‍💻 Science Computer and Full stack student
-- 📚 Estudando: Python
+- 👨🏽‍💻 Computer Science and Full stack student
+- 📚 Estudando: Javascript
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-filgueira/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=henriquefilg.silva@gmail.com)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561999882089&text=)
+[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@henriquefilgueira#6718)
+[![Blog](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/henricofilg/)
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueFilg&show_icons=true&theme=merko) 
 
@@ -24,7 +26,7 @@
     <img align=center alt="Javascript" height=30 width=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg>
     <img align=center alt="Node.js" height=30 width=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg>
     <img align=center alt="React" height=30 width=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg>
-    <img align=center alt="Java" height=30 width=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg>
+    
     
 
 </div><br/>
