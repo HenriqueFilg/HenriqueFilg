@@ -3,6 +3,25 @@
 
 **`AI Engineer`**
 
+<p align="left">
+    <a href="https://github.com/HenriqueFilg?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/HenriqueFilg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/HenriqueFilg?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/HenriqueFilg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
 Sou entusiasta de Tecnologia da Informação há mais de 7 anos na área, atuando no desenvolvimento de soluções e na evolução contínua de sistemas e processos tecnológicos. Ao longo da minha trajetória, venho consolidando conhecimentos técnicos e estratégicos, sempre com foco em inovação e geração de valor.
 
 
@@ -47,24 +66,7 @@ Apaixonado por tecnologia, e com constante vontade de aprender mais!
 
 Sou entusiasta de Tecnologia da Informação há mais de 7 anos na área, atuando no desenvolvimento de soluções e na evolução contínua de sistemas e processos tecnológicos. Ao longo da minha trajetória, venho consolidando conhecimentos técnicos e estratégicos, sempre com foco em inovação e geração de valor.
 
-<p align="left">
-    <a href="https://github.com/HenriqueFilg?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/HenriqueFilg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/HenriqueFilg?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/HenriqueFilg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
