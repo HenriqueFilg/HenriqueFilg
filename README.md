@@ -1,6 +1,6 @@
 # 👨‍💻 Henrique Filgueira
 
-**`Desenvolvedora FullStack`**
+**`AI Engineer`**
 
 Sou entusiasta de Tecnologia da Informação há mais de 7 anos na área, atuando no desenvolvimento de soluções e na evolução contínua de sistemas e processos tecnológicos. Ao longo da minha trajetória, venho consolidando conhecimentos técnicos e estratégicos, sempre com foco em inovação e geração de valor.
 
