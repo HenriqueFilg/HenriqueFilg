@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Henrique Filgueira
+# 👨‍💻 Henrique Filgueira
 
 **`Desenvolvedora FullStack`**
 
