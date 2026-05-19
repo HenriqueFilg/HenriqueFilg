@@ -1,4 +1,3 @@
-@@ -1,41 +1,162 @@
 ### Olá! Eu sou o Henrique Filgueira 🖖
 
 **`AI Engineer`**
