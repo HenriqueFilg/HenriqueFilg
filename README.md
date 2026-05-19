@@ -1,8 +1,9 @@
 @@ -1,41 +1,162 @@
 ### Olá! Eu sou o Henrique Filgueira 🖖
 
-- 👨🏽‍💻 Computer Science and Full stack student
-- 📚 Estudando: Javascript
+**`AI Engineer`**
+
+Sou entusiasta de Tecnologia da Informação há mais de 7 anos na área, atuando no desenvolvimento de soluções e na evolução contínua de sistemas e processos tecnológicos. Ao longo da minha trajetória, venho consolidando conhecimentos técnicos e estratégicos, sempre com foco em inovação e geração de valor.
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-filgueira/)
@@ -42,7 +43,7 @@ Apaixonado por tecnologia, e com constante vontade de aprender mais!
   
 # 👩🏻‍💻 Henrique Filgueira
 
-**`Desenvolvedora FullStack`**
+
 
 Sou entusiasta de Tecnologia da Informação há mais de 7 anos na área, atuando no desenvolvimento de soluções e na evolução contínua de sistemas e processos tecnológicos. Ao longo da minha trajetória, venho consolidando conhecimentos técnicos e estratégicos, sempre com foco em inovação e geração de valor.
 
